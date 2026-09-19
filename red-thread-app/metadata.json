@@ -1,0 +1,6 @@
+{
+  "name": "Red Thread",
+  "description": "Privacy-first Android scam detection and personal security assistant with on-device analysis, app permission audit, and guided financial protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
